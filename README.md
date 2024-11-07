@@ -1,4 +1,4 @@
-### HClaro! Aqui vai uma frase simples e impactante para o seu perfil ou para usar em commits:
+###
 
 **"Código é a linguagem que transforma ideias em realidade."**
 <!--
